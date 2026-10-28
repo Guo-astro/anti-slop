@@ -78,8 +78,9 @@ Every door is verified against the vendor's current documentation before its ver
 
 | Version | Item | What it means |
 |---------|------|---------------|
-| v3.2.25 | Community PR | Additional copywriting rules in antislop-copywriting. |
-| v3.2.26 | DeepSeek harness plugin | The harness becomes the eighth plugin door once its documentation is confirmed. |
+| v3.2.25 | Maintenance round | Installer repairs: the Node floor, the home-folder pointer, the npm package page, and the smoke test writing into the real home. |
+| v3.2.26 | Community PR | Additional copywriting rules in antislop-copywriting. |
+| v3.2.27 | DeepSeek harness plugin | The harness becomes the eighth plugin door once its documentation is confirmed. |
 
 Beyond the numbered plan, with no promised version:
 
